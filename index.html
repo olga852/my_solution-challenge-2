@@ -7,24 +7,33 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <link rel="stylesheet" href="style.css">
   <title>Frontend Mentor | Stats preview card component</title>
-
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    
-  </style>
 </head>
 <body>
   <main class="card">
 
-    <h1>Get <span class="violet-word">insights</span> that help your business grow.</h1>
+    <div class="image">
 
-    <p>Discover the benefits of data analytics and make better decisions regarding revenue, customer 
-    experience, and overall efficiency.</p>
+      <picture>
+        <source media="(min-width: 375px)"
+                srcset="images/image-header-desktop.jpg"> 
+        <source media="(max-width: 375px)"
+                srcset="images/image-header-mobile.jpg"> 
+          <img src="images/image-header-desktop.jpg" alt="women at work">
+      </picture>
+    </div>
+    
+    <div class="description">
 
-    <div class="stats">
-      <p><span class="numbers">10k+</span> <span class="single-word">companies</span></p>
-      <p><span class="numbers">314</span> <span class="single-word">templates</span></p>
-      <p><span class="numbers">12M+</span> <span class="single-word">queries</span></p>
+      <h1>Get <span class="violet-word">insights</span> that help your business grow.</h1>
+
+      <p>Discover the benefits of data analytics and make better decisions regarding revenue, customer 
+      experience, and overall efficiency.</p>
+
+      <div class="stats">
+        <p><span class="numbers">10k+</span> <span class="single-word">companies</span></p>
+        <p><span class="numbers">314</span> <span class="single-word">templates</span></p>
+        <p><span class="numbers">12M+</span> <span class="single-word">queries</span></p>
+      </div>
     </div>
 
   </main>
