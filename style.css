@@ -13,6 +13,7 @@
     --slightly-transparent-white-main: hsla(0, 0%, 100%, 0.75);
     --slightly-transparent-white-stat: hsla(0, 0%, 100%, 0.6);
 }
+
 * {
     padding: 0;
     margin: 0;
@@ -26,13 +27,14 @@ html {
     justify-content: center;
     height: 100vh;
     background: var(--very-dark-blue);
-    position: relative;
 }
+
 body {
     font-family: 'Inter', sans-serif;
     font-size: 15px;
     text-align: center;
 }
+
 main {
     background: var(--dark-desaturated-blue);
 }
@@ -62,7 +64,6 @@ p {
     border-radius: 10px;
 }
 
-
 picture {
     background-color: var(--soft-violet);
     display: inline-block;
@@ -77,15 +78,16 @@ img {
     opacity: 0.5;
 }
 
+
+    /* Text Section */
 .description {
     padding: 0 35px;
 }
 
-
-    /* Text Section */
 .violet-word {
     color:  var(--soft-violet);
 }
+
 .single-word {
     font-family: 'Lexend Deca', sans-serif;
     font-size: 12px;
@@ -102,12 +104,13 @@ img {
 /* Footer */
 
 .attribution {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     right: 0;
     color: var(--slightly-transparent-white-stat);
     font-size: 11px; 
 }
+
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
@@ -123,6 +126,7 @@ img {
     h1 {
         font-size: 35px;
     }
+
     .card {
         width: 1100px;
         height: 446px;
@@ -130,14 +134,12 @@ img {
         justify-content: space-between;
         text-align: left;
     }
+
     img {
         height: 446px;
         width: auto;
     }
 
-    .image {
-        overflow: hidden;
-    }
     picture {
         border-radius: 0 10px 10px 0;
     }
@@ -147,13 +149,16 @@ img {
         padding-right: 100px;
         flex-basis: 50%;
     }
+
     .description p {
         padding: 10px 50px 60px 0;
     }
+
     .stats {
         display: flex;
 
     }
+    
     .stats p {
         padding-right: 65px;
     }
