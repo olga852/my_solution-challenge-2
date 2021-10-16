@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component
 
-Это моё решение челленджа [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
+Это моё решение задачи [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
 
 ## Содержание
 
@@ -22,7 +22,7 @@
 
 Пользователи должены:
 
-- Увидеть оптимальный дизайн в зависимости от ширины экрана своего устройства
+- Увидеть оптимальную компоновку в зависимости от размера экрана их устройства
 
 ### Скриншот
 
