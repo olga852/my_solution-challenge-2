@@ -26,6 +26,14 @@
 
 ### Скриншот
 
+![image](https://user-images.githubusercontent.com/90684029/137591381-2ff7c1e3-8589-4640-ba9a-7176f065e8b7.png)
+
+Десктоп версия
+
+![image](https://user-images.githubusercontent.com/90684029/137591412-93b044bf-618f-4255-a954-e2e56c755658.png)
+
+Мобильная версия
+
 ### Ссылки
 
 - Решение URL: https://github.com/olga852/my_solution-challenge-2
