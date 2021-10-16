@@ -30,7 +30,7 @@
 
 Десктоп версия
 
-![image](https://user-images.githubusercontent.com/90684029/137591412-93b044bf-618f-4255-a954-e2e56c755658.png)
+![image](https://user-images.githubusercontent.com/90684029/137591458-f47fe0a0-ab01-4179-8ade-87ff555915c7.png)
 
 Мобильная версия
 
