@@ -1,10 +1,10 @@
 # Frontend Mentor - Stats preview card component
 
-Это моё решение челенджа [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
+Это моё решение челленджа [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
 
 ## Содержание
 
--[Обзор](#обзор)
+- [Обзор](#обзор)
   - [Задача](#задача)
   - [Скриншот](#скриншот)
   - [Ссылки](#ссылки)
